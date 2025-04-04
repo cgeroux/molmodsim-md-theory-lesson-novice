@@ -9,6 +9,7 @@
 # cp: Carpentries (to use for instructor traning for instance)
 carpentry: "bst"
 
+
 # Overall title for pages.
 title: "Practical considerations for Molecular Dynamics"
 
